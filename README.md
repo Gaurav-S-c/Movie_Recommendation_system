@@ -78,6 +78,7 @@ OMDB_KEY = "62c1f87c"
 ---
 
 👨‍💻 Author
+
 Gaurav Sinha
 
   
